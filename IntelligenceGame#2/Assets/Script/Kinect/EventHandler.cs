@@ -1,0 +1,1 @@
+﻿public delegate void EventHandler<EventArgs>(EventArgs eventArgs) where EventArgs : struct;
